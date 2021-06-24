@@ -1,0 +1,16 @@
+C:\Users\Tarik Aydin\Documents\GitHub\csharp101\degisken\obj\Debug\net5.0\degisken.csprojAssemblyReference.cache
+C:\Users\Tarik Aydin\Documents\GitHub\csharp101\degisken\obj\Debug\net5.0\degisken.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tarik Aydin\Documents\GitHub\csharp101\degisken\obj\Debug\net5.0\degisken.AssemblyInfoInputs.cache
+C:\Users\Tarik Aydin\Documents\GitHub\csharp101\degisken\obj\Debug\net5.0\degisken.AssemblyInfo.cs
+C:\Users\Tarik Aydin\Documents\GitHub\csharp101\degisken\obj\Debug\net5.0\degisken.csproj.CoreCompileInputs.cache
+C:\Users\Tarik Aydin\Documents\GitHub\csharp101\degisken\bin\Debug\net5.0\degisken.exe
+C:\Users\Tarik Aydin\Documents\GitHub\csharp101\degisken\bin\Debug\net5.0\degisken.deps.json
+C:\Users\Tarik Aydin\Documents\GitHub\csharp101\degisken\bin\Debug\net5.0\degisken.runtimeconfig.json
+C:\Users\Tarik Aydin\Documents\GitHub\csharp101\degisken\bin\Debug\net5.0\degisken.runtimeconfig.dev.json
+C:\Users\Tarik Aydin\Documents\GitHub\csharp101\degisken\bin\Debug\net5.0\degisken.dll
+C:\Users\Tarik Aydin\Documents\GitHub\csharp101\degisken\bin\Debug\net5.0\ref\degisken.dll
+C:\Users\Tarik Aydin\Documents\GitHub\csharp101\degisken\bin\Debug\net5.0\degisken.pdb
+C:\Users\Tarik Aydin\Documents\GitHub\csharp101\degisken\obj\Debug\net5.0\degisken.dll
+C:\Users\Tarik Aydin\Documents\GitHub\csharp101\degisken\obj\Debug\net5.0\ref\degisken.dll
+C:\Users\Tarik Aydin\Documents\GitHub\csharp101\degisken\obj\Debug\net5.0\degisken.pdb
+C:\Users\Tarik Aydin\Documents\GitHub\csharp101\degisken\obj\Debug\net5.0\degisken.genruntimeconfig.cache
