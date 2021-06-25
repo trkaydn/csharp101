@@ -1,0 +1,16 @@
+C:\Users\Tarik Aydin\Documents\GitHub\csharp101\tip-donusumleri\bin\Debug\net5.0\tip-donusumleri.exe
+C:\Users\Tarik Aydin\Documents\GitHub\csharp101\tip-donusumleri\bin\Debug\net5.0\tip-donusumleri.deps.json
+C:\Users\Tarik Aydin\Documents\GitHub\csharp101\tip-donusumleri\bin\Debug\net5.0\tip-donusumleri.runtimeconfig.json
+C:\Users\Tarik Aydin\Documents\GitHub\csharp101\tip-donusumleri\bin\Debug\net5.0\tip-donusumleri.runtimeconfig.dev.json
+C:\Users\Tarik Aydin\Documents\GitHub\csharp101\tip-donusumleri\bin\Debug\net5.0\tip-donusumleri.dll
+C:\Users\Tarik Aydin\Documents\GitHub\csharp101\tip-donusumleri\bin\Debug\net5.0\ref\tip-donusumleri.dll
+C:\Users\Tarik Aydin\Documents\GitHub\csharp101\tip-donusumleri\bin\Debug\net5.0\tip-donusumleri.pdb
+C:\Users\Tarik Aydin\Documents\GitHub\csharp101\tip-donusumleri\obj\Debug\net5.0\tip-donusumleri.csprojAssemblyReference.cache
+C:\Users\Tarik Aydin\Documents\GitHub\csharp101\tip-donusumleri\obj\Debug\net5.0\tip-donusumleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tarik Aydin\Documents\GitHub\csharp101\tip-donusumleri\obj\Debug\net5.0\tip-donusumleri.AssemblyInfoInputs.cache
+C:\Users\Tarik Aydin\Documents\GitHub\csharp101\tip-donusumleri\obj\Debug\net5.0\tip-donusumleri.AssemblyInfo.cs
+C:\Users\Tarik Aydin\Documents\GitHub\csharp101\tip-donusumleri\obj\Debug\net5.0\tip-donusumleri.csproj.CoreCompileInputs.cache
+C:\Users\Tarik Aydin\Documents\GitHub\csharp101\tip-donusumleri\obj\Debug\net5.0\tip-donusumleri.dll
+C:\Users\Tarik Aydin\Documents\GitHub\csharp101\tip-donusumleri\obj\Debug\net5.0\ref\tip-donusumleri.dll
+C:\Users\Tarik Aydin\Documents\GitHub\csharp101\tip-donusumleri\obj\Debug\net5.0\tip-donusumleri.pdb
+C:\Users\Tarik Aydin\Documents\GitHub\csharp101\tip-donusumleri\obj\Debug\net5.0\tip-donusumleri.genruntimeconfig.cache
