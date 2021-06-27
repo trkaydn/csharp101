@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tarik Aydin\\Documents\\GitHub\\csharp101\\if-else-if\\console-programlama.csproj",
-      "projectName": "console-programlama",
-      "projectPath": "C:\\Users\\Tarik Aydin\\Documents\\GitHub\\csharp101\\if-else-if\\console-programlama.csproj",
+      "projectUniqueName": "C:\\Users\\Tarik Aydin\\Documents\\GitHub\\csharp101\\donguler-for-loop\\donguler-for-loop.csproj",
+      "projectName": "donguler-for-loop",
+      "projectPath": "C:\\Users\\Tarik Aydin\\Documents\\GitHub\\csharp101\\donguler-for-loop\\donguler-for-loop.csproj",
       "packagesPath": "C:\\Users\\Tarik Aydin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tarik Aydin\\Documents\\GitHub\\csharp101\\if-else-if\\obj\\",
+      "outputPath": "C:\\Users\\Tarik Aydin\\Documents\\GitHub\\csharp101\\donguler-for-loop\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Tarik Aydin\\AppData\\Roaming\\NuGet\\NuGet.Config",
