@@ -1,0 +1,5 @@
+C:\Users\Tarik Aydin\Documents\GitHub\csharp101\recursive-extension-metotlar\obj\Debug\net5.0\recursive-extension-metotlar.csprojAssemblyReference.cache
+C:\Users\Tarik Aydin\Documents\GitHub\csharp101\recursive-extension-metotlar\obj\Debug\net5.0\recursive-extension-metotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tarik Aydin\Documents\GitHub\csharp101\recursive-extension-metotlar\obj\Debug\net5.0\recursive-extension-metotlar.AssemblyInfoInputs.cache
+C:\Users\Tarik Aydin\Documents\GitHub\csharp101\recursive-extension-metotlar\obj\Debug\net5.0\recursive-extension-metotlar.AssemblyInfo.cs
+C:\Users\Tarik Aydin\Documents\GitHub\csharp101\recursive-extension-metotlar\obj\Debug\net5.0\recursive-extension-metotlar.csproj.CoreCompileInputs.cache
