@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tarik Aydin\\Documents\\GitHub\\csharp101\\if-else-if\\console-programlama.csproj": {}
+    "C:\\Users\\Tarik Aydin\\Documents\\GitHub\\csharp101\\switch-case\\switch-case.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tarik Aydin\\Documents\\GitHub\\csharp101\\if-else-if\\console-programlama.csproj": {
+    "C:\\Users\\Tarik Aydin\\Documents\\GitHub\\csharp101\\switch-case\\switch-case.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tarik Aydin\\Documents\\GitHub\\csharp101\\if-else-if\\console-programlama.csproj",
-        "projectName": "console-programlama",
-        "projectPath": "C:\\Users\\Tarik Aydin\\Documents\\GitHub\\csharp101\\if-else-if\\console-programlama.csproj",
+        "projectUniqueName": "C:\\Users\\Tarik Aydin\\Documents\\GitHub\\csharp101\\switch-case\\switch-case.csproj",
+        "projectName": "switch-case",
+        "projectPath": "C:\\Users\\Tarik Aydin\\Documents\\GitHub\\csharp101\\switch-case\\switch-case.csproj",
         "packagesPath": "C:\\Users\\Tarik Aydin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tarik Aydin\\Documents\\GitHub\\csharp101\\if-else-if\\obj\\",
+        "outputPath": "C:\\Users\\Tarik Aydin\\Documents\\GitHub\\csharp101\\switch-case\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Tarik Aydin\\AppData\\Roaming\\NuGet\\NuGet.Config",

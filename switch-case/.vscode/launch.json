@@ -9,10 +9,10 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/bin/Debug/net5.0/console-programlama.dll",
+            "program": "${workspaceFolder}/bin/Debug/net5.0/switch-case.dll",
             "args": [],
             "cwd": "${workspaceFolder}",
-            "console": "externalTerminal",
+            "console": "internalConsole",
             "stopAtEntry": false
         },
         {

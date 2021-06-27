@@ -1,10 +1,10 @@
 ﻿using System;
 
-namespace console_programlama
+namespace switch_case
 {
     class Program
     {
-        public static void Main(string[] args)
+      public static void Main(string[] args)
         {
            int month = DateTime.Now.Month;
 
