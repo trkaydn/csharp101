@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace console_programlama
+namespace donguler_for_loop
 {
     class Program
     {
@@ -47,4 +47,5 @@ namespace console_programlama
 
         }
     }
+
 }
