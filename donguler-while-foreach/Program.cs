@@ -1,10 +1,10 @@
 ﻿using System;
 
-namespace console_programlama
+namespace donguler_while_foreach
 {
     class Program
     {
-        public static void Main(string[] args)
+        static void Main(string[] args)
         {
             //while
             //1den başlayarak console'a girilen sayıya kadar (sayı dahil) ortalama hesaplayıp console'a yazdıran program.
@@ -32,7 +32,6 @@ namespace console_programlama
             {
                 Console.WriteLine(araba);
             }
-
 
         }
     }

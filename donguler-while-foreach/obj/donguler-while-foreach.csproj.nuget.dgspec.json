@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tarik Aydin\\Documents\\GitHub\\csharp101\\if-else-if\\console-programlama.csproj": {}
+    "C:\\Users\\Tarik Aydin\\Documents\\GitHub\\csharp101\\donguler-while-foreach\\donguler-while-foreach.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tarik Aydin\\Documents\\GitHub\\csharp101\\if-else-if\\console-programlama.csproj": {
+    "C:\\Users\\Tarik Aydin\\Documents\\GitHub\\csharp101\\donguler-while-foreach\\donguler-while-foreach.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tarik Aydin\\Documents\\GitHub\\csharp101\\if-else-if\\console-programlama.csproj",
-        "projectName": "console-programlama",
-        "projectPath": "C:\\Users\\Tarik Aydin\\Documents\\GitHub\\csharp101\\if-else-if\\console-programlama.csproj",
+        "projectUniqueName": "C:\\Users\\Tarik Aydin\\Documents\\GitHub\\csharp101\\donguler-while-foreach\\donguler-while-foreach.csproj",
+        "projectName": "donguler-while-foreach",
+        "projectPath": "C:\\Users\\Tarik Aydin\\Documents\\GitHub\\csharp101\\donguler-while-foreach\\donguler-while-foreach.csproj",
         "packagesPath": "C:\\Users\\Tarik Aydin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tarik Aydin\\Documents\\GitHub\\csharp101\\if-else-if\\obj\\",
+        "outputPath": "C:\\Users\\Tarik Aydin\\Documents\\GitHub\\csharp101\\donguler-while-foreach\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Tarik Aydin\\AppData\\Roaming\\NuGet\\NuGet.Config",
