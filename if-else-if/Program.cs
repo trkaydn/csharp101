@@ -1,10 +1,10 @@
 ﻿using System;
 
-namespace console_programlama
+namespace if_else_if
 {
     class Program
     {
-        public static void Main(string[] args)
+        static void Main(string[] args)
         {
            int time = DateTime.Now.Hour;
 

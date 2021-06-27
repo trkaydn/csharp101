@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tarik Aydin\\Documents\\GitHub\\csharp101\\if-else-if\\console-programlama.csproj": {}
+    "C:\\Users\\Tarik Aydin\\Documents\\GitHub\\csharp101\\if-else-if\\if-else-if.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tarik Aydin\\Documents\\GitHub\\csharp101\\if-else-if\\console-programlama.csproj": {
+    "C:\\Users\\Tarik Aydin\\Documents\\GitHub\\csharp101\\if-else-if\\if-else-if.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tarik Aydin\\Documents\\GitHub\\csharp101\\if-else-if\\console-programlama.csproj",
-        "projectName": "console-programlama",
-        "projectPath": "C:\\Users\\Tarik Aydin\\Documents\\GitHub\\csharp101\\if-else-if\\console-programlama.csproj",
+        "projectUniqueName": "C:\\Users\\Tarik Aydin\\Documents\\GitHub\\csharp101\\if-else-if\\if-else-if.csproj",
+        "projectName": "if-else-if",
+        "projectPath": "C:\\Users\\Tarik Aydin\\Documents\\GitHub\\csharp101\\if-else-if\\if-else-if.csproj",
         "packagesPath": "C:\\Users\\Tarik Aydin\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Tarik Aydin\\Documents\\GitHub\\csharp101\\if-else-if\\obj\\",
         "projectStyle": "PackageReference",
