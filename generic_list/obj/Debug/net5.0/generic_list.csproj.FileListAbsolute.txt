@@ -1,0 +1,5 @@
+C:\Users\Tarik Aydin\Documents\GitHub\csharp101\generic_list\obj\Debug\net5.0\generic_list.csprojAssemblyReference.cache
+C:\Users\Tarik Aydin\Documents\GitHub\csharp101\generic_list\obj\Debug\net5.0\generic_list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tarik Aydin\Documents\GitHub\csharp101\generic_list\obj\Debug\net5.0\generic_list.AssemblyInfoInputs.cache
+C:\Users\Tarik Aydin\Documents\GitHub\csharp101\generic_list\obj\Debug\net5.0\generic_list.AssemblyInfo.cs
+C:\Users\Tarik Aydin\Documents\GitHub\csharp101\generic_list\obj\Debug\net5.0\generic_list.csproj.CoreCompileInputs.cache
