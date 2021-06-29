@@ -1,0 +1,16 @@
+C:\Users\Tarik Aydin\Documents\GitHub\csharp101\encapsulation\bin\Debug\net5.0\encapsulation.exe
+C:\Users\Tarik Aydin\Documents\GitHub\csharp101\encapsulation\bin\Debug\net5.0\encapsulation.deps.json
+C:\Users\Tarik Aydin\Documents\GitHub\csharp101\encapsulation\bin\Debug\net5.0\encapsulation.runtimeconfig.json
+C:\Users\Tarik Aydin\Documents\GitHub\csharp101\encapsulation\bin\Debug\net5.0\encapsulation.runtimeconfig.dev.json
+C:\Users\Tarik Aydin\Documents\GitHub\csharp101\encapsulation\bin\Debug\net5.0\encapsulation.dll
+C:\Users\Tarik Aydin\Documents\GitHub\csharp101\encapsulation\bin\Debug\net5.0\ref\encapsulation.dll
+C:\Users\Tarik Aydin\Documents\GitHub\csharp101\encapsulation\bin\Debug\net5.0\encapsulation.pdb
+C:\Users\Tarik Aydin\Documents\GitHub\csharp101\encapsulation\obj\Debug\net5.0\encapsulation.csprojAssemblyReference.cache
+C:\Users\Tarik Aydin\Documents\GitHub\csharp101\encapsulation\obj\Debug\net5.0\encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tarik Aydin\Documents\GitHub\csharp101\encapsulation\obj\Debug\net5.0\encapsulation.AssemblyInfoInputs.cache
+C:\Users\Tarik Aydin\Documents\GitHub\csharp101\encapsulation\obj\Debug\net5.0\encapsulation.AssemblyInfo.cs
+C:\Users\Tarik Aydin\Documents\GitHub\csharp101\encapsulation\obj\Debug\net5.0\encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\Tarik Aydin\Documents\GitHub\csharp101\encapsulation\obj\Debug\net5.0\encapsulation.dll
+C:\Users\Tarik Aydin\Documents\GitHub\csharp101\encapsulation\obj\Debug\net5.0\ref\encapsulation.dll
+C:\Users\Tarik Aydin\Documents\GitHub\csharp101\encapsulation\obj\Debug\net5.0\encapsulation.pdb
+C:\Users\Tarik Aydin\Documents\GitHub\csharp101\encapsulation\obj\Debug\net5.0\encapsulation.genruntimeconfig.cache
