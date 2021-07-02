@@ -1,0 +1,16 @@
+C:\Users\Tarik Aydin\Documents\GitHub\csharp101\arayuzler-interface\bin\Debug\net5.0\arayuzler-interface.exe
+C:\Users\Tarik Aydin\Documents\GitHub\csharp101\arayuzler-interface\bin\Debug\net5.0\arayuzler-interface.deps.json
+C:\Users\Tarik Aydin\Documents\GitHub\csharp101\arayuzler-interface\bin\Debug\net5.0\arayuzler-interface.runtimeconfig.json
+C:\Users\Tarik Aydin\Documents\GitHub\csharp101\arayuzler-interface\bin\Debug\net5.0\arayuzler-interface.runtimeconfig.dev.json
+C:\Users\Tarik Aydin\Documents\GitHub\csharp101\arayuzler-interface\bin\Debug\net5.0\arayuzler-interface.dll
+C:\Users\Tarik Aydin\Documents\GitHub\csharp101\arayuzler-interface\bin\Debug\net5.0\ref\arayuzler-interface.dll
+C:\Users\Tarik Aydin\Documents\GitHub\csharp101\arayuzler-interface\bin\Debug\net5.0\arayuzler-interface.pdb
+C:\Users\Tarik Aydin\Documents\GitHub\csharp101\arayuzler-interface\obj\Debug\net5.0\arayuzler-interface.csprojAssemblyReference.cache
+C:\Users\Tarik Aydin\Documents\GitHub\csharp101\arayuzler-interface\obj\Debug\net5.0\arayuzler-interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tarik Aydin\Documents\GitHub\csharp101\arayuzler-interface\obj\Debug\net5.0\arayuzler-interface.AssemblyInfoInputs.cache
+C:\Users\Tarik Aydin\Documents\GitHub\csharp101\arayuzler-interface\obj\Debug\net5.0\arayuzler-interface.AssemblyInfo.cs
+C:\Users\Tarik Aydin\Documents\GitHub\csharp101\arayuzler-interface\obj\Debug\net5.0\arayuzler-interface.csproj.CoreCompileInputs.cache
+C:\Users\Tarik Aydin\Documents\GitHub\csharp101\arayuzler-interface\obj\Debug\net5.0\arayuzler-interface.dll
+C:\Users\Tarik Aydin\Documents\GitHub\csharp101\arayuzler-interface\obj\Debug\net5.0\ref\arayuzler-interface.dll
+C:\Users\Tarik Aydin\Documents\GitHub\csharp101\arayuzler-interface\obj\Debug\net5.0\arayuzler-interface.pdb
+C:\Users\Tarik Aydin\Documents\GitHub\csharp101\arayuzler-interface\obj\Debug\net5.0\arayuzler-interface.genruntimeconfig.cache

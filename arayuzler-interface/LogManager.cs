@@ -1,0 +1,18 @@
+using System;
+
+namespace arayuzler_interface
+{
+    public class LogManager
+    {
+        public ILogger _logger;
+        public LogManager(ILogger logger)
+        {
+          _logger = logger;
+        }
+
+        public void WriteLog()
+        {
+            _logger.WriteLog();
+        }
+    }
+}

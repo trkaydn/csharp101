@@ -1,0 +1,5 @@
+C:\Users\Tarik Aydin\Documents\GitHub\csharp101\abstract-siniflar\obj\Debug\net5.0\abstract-siniflar.csprojAssemblyReference.cache
+C:\Users\Tarik Aydin\Documents\GitHub\csharp101\abstract-siniflar\obj\Debug\net5.0\abstract-siniflar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tarik Aydin\Documents\GitHub\csharp101\abstract-siniflar\obj\Debug\net5.0\abstract-siniflar.AssemblyInfoInputs.cache
+C:\Users\Tarik Aydin\Documents\GitHub\csharp101\abstract-siniflar\obj\Debug\net5.0\abstract-siniflar.AssemblyInfo.cs
+C:\Users\Tarik Aydin\Documents\GitHub\csharp101\abstract-siniflar\obj\Debug\net5.0\abstract-siniflar.csproj.CoreCompileInputs.cache
