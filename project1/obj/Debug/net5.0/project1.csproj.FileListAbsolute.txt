@@ -1,0 +1,16 @@
+C:\Users\Tarik Aydin\Documents\GitHub\csharp101\project1\bin\Debug\net5.0\project1.exe
+C:\Users\Tarik Aydin\Documents\GitHub\csharp101\project1\bin\Debug\net5.0\project1.deps.json
+C:\Users\Tarik Aydin\Documents\GitHub\csharp101\project1\bin\Debug\net5.0\project1.runtimeconfig.json
+C:\Users\Tarik Aydin\Documents\GitHub\csharp101\project1\bin\Debug\net5.0\project1.runtimeconfig.dev.json
+C:\Users\Tarik Aydin\Documents\GitHub\csharp101\project1\bin\Debug\net5.0\project1.dll
+C:\Users\Tarik Aydin\Documents\GitHub\csharp101\project1\bin\Debug\net5.0\ref\project1.dll
+C:\Users\Tarik Aydin\Documents\GitHub\csharp101\project1\bin\Debug\net5.0\project1.pdb
+C:\Users\Tarik Aydin\Documents\GitHub\csharp101\project1\obj\Debug\net5.0\project1.csprojAssemblyReference.cache
+C:\Users\Tarik Aydin\Documents\GitHub\csharp101\project1\obj\Debug\net5.0\project1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tarik Aydin\Documents\GitHub\csharp101\project1\obj\Debug\net5.0\project1.AssemblyInfoInputs.cache
+C:\Users\Tarik Aydin\Documents\GitHub\csharp101\project1\obj\Debug\net5.0\project1.AssemblyInfo.cs
+C:\Users\Tarik Aydin\Documents\GitHub\csharp101\project1\obj\Debug\net5.0\project1.csproj.CoreCompileInputs.cache
+C:\Users\Tarik Aydin\Documents\GitHub\csharp101\project1\obj\Debug\net5.0\project1.dll
+C:\Users\Tarik Aydin\Documents\GitHub\csharp101\project1\obj\Debug\net5.0\ref\project1.dll
+C:\Users\Tarik Aydin\Documents\GitHub\csharp101\project1\obj\Debug\net5.0\project1.pdb
+C:\Users\Tarik Aydin\Documents\GitHub\csharp101\project1\obj\Debug\net5.0\project1.genruntimeconfig.cache
