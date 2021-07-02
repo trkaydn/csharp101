@@ -1,0 +1,16 @@
+C:\Users\Tarik Aydin\Documents\GitHub\csharp101\project2\bin\Debug\net5.0\project2.exe
+C:\Users\Tarik Aydin\Documents\GitHub\csharp101\project2\bin\Debug\net5.0\project2.deps.json
+C:\Users\Tarik Aydin\Documents\GitHub\csharp101\project2\bin\Debug\net5.0\project2.runtimeconfig.json
+C:\Users\Tarik Aydin\Documents\GitHub\csharp101\project2\bin\Debug\net5.0\project2.runtimeconfig.dev.json
+C:\Users\Tarik Aydin\Documents\GitHub\csharp101\project2\bin\Debug\net5.0\project2.dll
+C:\Users\Tarik Aydin\Documents\GitHub\csharp101\project2\bin\Debug\net5.0\ref\project2.dll
+C:\Users\Tarik Aydin\Documents\GitHub\csharp101\project2\bin\Debug\net5.0\project2.pdb
+C:\Users\Tarik Aydin\Documents\GitHub\csharp101\project2\obj\Debug\net5.0\project2.csprojAssemblyReference.cache
+C:\Users\Tarik Aydin\Documents\GitHub\csharp101\project2\obj\Debug\net5.0\project2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tarik Aydin\Documents\GitHub\csharp101\project2\obj\Debug\net5.0\project2.AssemblyInfoInputs.cache
+C:\Users\Tarik Aydin\Documents\GitHub\csharp101\project2\obj\Debug\net5.0\project2.AssemblyInfo.cs
+C:\Users\Tarik Aydin\Documents\GitHub\csharp101\project2\obj\Debug\net5.0\project2.csproj.CoreCompileInputs.cache
+C:\Users\Tarik Aydin\Documents\GitHub\csharp101\project2\obj\Debug\net5.0\project2.dll
+C:\Users\Tarik Aydin\Documents\GitHub\csharp101\project2\obj\Debug\net5.0\ref\project2.dll
+C:\Users\Tarik Aydin\Documents\GitHub\csharp101\project2\obj\Debug\net5.0\project2.pdb
+C:\Users\Tarik Aydin\Documents\GitHub\csharp101\project2\obj\Debug\net5.0\project2.genruntimeconfig.cache
