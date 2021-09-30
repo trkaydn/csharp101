@@ -6,11 +6,11 @@
 
 1. Yukarıda verilen dizinin sort türüne göre aşamalarını yazınız.
 ```
-2. Aşama : [2,22,27,16,18,6]
-3. Aşama : [2,6,27,16,18,22]
-4. Aşama : [2,6,16,27,18,22]
-5. Aşama : [2,6,16,18,27,22]
-6. Aşama : [2,6,16,18,22,27] //Final
+1. Aşama : [2,22,27,16,18,6]
+2. Aşama : [2,6,27,16,18,22]
+3. Aşama : [2,6,16,27,18,22]
+4. Aşama : [2,6,16,18,27,22]
+5. Aşama : [2,6,16,18,22,27] //Final
 ```
 
 2. Big-O gösterimini yazınız.
