@@ -1,7 +1,7 @@
 # # Proje 1
 
 ```
-[22,27,16,2,18,6] -> İnsertion Sort
+[22,27,16,2,18,6] -> Insertion Sort
 ```
 
 1. Yukarıda verilen dizinin sort türüne göre aşamalarını yazınız.
@@ -18,7 +18,7 @@
 O(n)  --> O(6)
 ```
 
-3. Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer ? Yazınız.
+3. Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
  ```
 Sıralanmış dizi [2,6,16,18,22,27] olduğuna göre AVARAGE CASE’e girer.
 ```
