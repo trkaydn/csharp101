@@ -14,7 +14,7 @@
 6. Aşama : Son olarak her iki üçlü parça sıralanarak birleştirilir. Sonuç [8,11,12,16,21,22] olarak ortaya çıkar.
 ```
 
-8. Big-O gösterimini yazınız.
+2. Big-O gösterimini yazınız.
 ```
 O(n)  --> O(6)
 ```
